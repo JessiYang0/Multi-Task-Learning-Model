@@ -36,7 +36,7 @@
 ## Experimental Settings
 <img src="pic/flow_chart.png">  
 
-In experiments, the size of the input window T is 24, and we use different forecasting horizon values m to perform experiments, in which m ∈ {3,6,12,24}.
+In experiments, the size of the input window ***T*** is 24, and we use different forecasting horizon values m to perform experiments, in which ***m ∈ {3,6,12,24}***.
 
 ## Comparison Methods
 Comparison methods involve machine learning, deep learning, and statistical methods. We use machine learning methods that are commonly used in previous work as comparison methods.
